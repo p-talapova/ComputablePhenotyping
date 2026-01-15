@@ -621,3 +621,13 @@ Choose one of the following and develop a computable phenotype:
 6.	If a phenotype algorithm has a sensitivity of 95% and a positive predictive value (PPV) of 60%, what does that mean in practical terms? In what scenarios might such an algorithm be acceptable, and when might it be problematic?
 7.	Provide an example of a temporal criterion in a phenotype definition (for any condition) and explain how you would implement it in a database query or code.
 8.	How can unstructured data (like clinical notes) or high-frequency data (like ICU waveforms) enhance phenotyping? What additional steps or tools are needed to incorporate these into a computable phenotype?
+
+## Resourses
+
+1. [The Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/)
+2. [A User's Guide To Computable Phenotypes (PDF)](https://dcricollab.dcri.duke.edu/sites/NIHKR/KR/Blake_Users_Guide_to_Computable_Phenotypes.pdf)
+3. [Electronic Health Records-Based Phenotyping](https://rethinkingclinicaltrials.org/chapters/conduct/electronic-health-records-based-phenotyping/electronic-health-records-based-phenotyping-introduction/)
+4. [ATLAS Tutorial: Create A New Cohort Definition](https://www.youtube.com/watch?v=JQFGedOaNiw)
+5. [2019 OHDSI Tutorials - Cohort Definition & Phenotyping (1 of 3)](https://www.youtube.com/watch?v=SKiZpHEfv_E)
+6. [2019 OHDSI Tutorials - Cohort Definition & Phenotyping (2 of 3)](https://www.youtube.com/watch?v=SFCPwKJORy4)
+7. [2019 OHDSI Tutorials - Cohort Definition & Phenotyping (3 of 3)](https://www.youtube.com/watch?v=FO3vQ9ajObY)
